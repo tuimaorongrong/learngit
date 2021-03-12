@@ -1,6 +1,14 @@
 20210312
+1
 learn git from WebSite:
 https://www.liaoxuefeng.com/wiki/896043488029600/896827951938304.
 
-add
-commit
+git add filename
+git commit
+----------------------------------
+2
+git status
+git diff
+----------------------------------
+3
+git commit -m
